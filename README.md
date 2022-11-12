@@ -1,6 +1,6 @@
 # Logistics package separation software
 
-@ Software Copyright
+@ Invention Patent
 
 
 
